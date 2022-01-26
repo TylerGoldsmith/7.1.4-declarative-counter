@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "7.1.4-declarative-counter",
   "version": "0.1.0",
   "private": true,
